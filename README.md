@@ -2,7 +2,12 @@
 [![codecov.io](https://codecov.io/github/dom4j/dom4j/coverage.svg?branch=master)](https://codecov.io/github/dom4j/dom4j?branch=master)
 [![Build Status](https://travis-ci.org/dom4j/dom4j.svg?branch=master)](https://travis-ci.org/dom4j/dom4j)
 [![Javadocs](http://javadoc.io/badge/org.dom4j/dom4j.svg)](http://javadoc.io/doc/org.dom4j/dom4j)
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2FAlex-Vaduva%2Fdom4j.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2FAlex-Vaduva%2Fdom4j?ref=badge_shield)
 
 # DOM4J
 
 DOM4J is an open source framework for processing XML which is integrated with XPath and fully supports DOM, SAX, JAXP and the Java platform such as Java 2 Collections.
+
+
+## License
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2FAlex-Vaduva%2Fdom4j.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2FAlex-Vaduva%2Fdom4j?ref=badge_large)
